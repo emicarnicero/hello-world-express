@@ -1,2 +1,2 @@
 # hello-world-express
-# CI: GIthub + Herokuu
+# CI: Github + Heroku
